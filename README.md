@@ -6,7 +6,8 @@ This repository consists of:
 3. Raft: An implementation of the Raft Algorithm in Go.
 4. Spam Bayes: An AI powered filter for emails to segregate spam from ham emails.
 5. Financial Education: A tool that calculates 10 KPIs for the chosen Stocks. It also parses the values into something usable.
-6. Pink Walrus: A linux(x86) OS with simple shell functionality.
+6. Peach: A linux like amr64 OS with fat16 filesystem.
+7. Pink Walrus: A linux(x86) OS with simple shell functionality.
 
 
 <!---
